@@ -23,7 +23,7 @@ It has not been demonstrated that this method produces a net economic benefit. T
 
 ## Origin and Community Continuity
 
-The first public version will document a **dated, attributed proposal**, not a claim of absolute originality. The project is intended for community development, with recognition of subsequent contributors' work. See [STATEMENT-OF-ORIGIN.md](STATEMENT-OF-ORIGIN.md).
+The founding version documents a **dated, attributed proposal**, not a claim of absolute originality. The project is intended for community development, with recognition of subsequent contributors' work. See [STATEMENT-OF-ORIGIN.md](STATEMENT-OF-ORIGIN.md).
 
 **Open does not mean indiscriminate acceptance:** proposals and revisions may be freely discussed, but inclusion in the official version requires review and reasoned decisions. The governance described here is a **proposal, not an established structure**. See [CONTRIBUTING.md](CONTRIBUTING.md) and Part I, §7.
 
