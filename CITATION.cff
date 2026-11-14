@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you refer to the original OIIF proposal, please cite this founding version."
+title: "OIIF — Open Industrial Innovation Framework: Founding Proposal"
+authors:
+  - family-names: "Volpe"
+    given-names: "Salvatore"
+version: "1.0.0"
+type: generic
+abstract: "A preliminary open methodological proposal for interoperable university–industry innovation, including Industrial Innovation Proposals (IIPs), independent validation, a shared European repository and community governance."
+keywords:
+  - "university–industry collaboration"
+  - "innovation interoperability"
+  - "Industrial Innovation Proposals"
+  - "open governance"
+  - "methodology"
