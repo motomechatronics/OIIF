@@ -7,6 +7,14 @@
 **Public repository:** https://github.com/motomechatronics/OIIF
 **Licence for the texts:** Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+## Founding Publication
+
+**Publication date:** 14 November 2026  
+**Founding version DOI:** https://doi.org/10.5281/zenodo.24218146  
+**Zenodo record:** https://zenodo.org/records/24218146
+
+The DOI permanently identifies the founding proposal (version 1.0.0), originally conceived and formulated by Salvatore Volpe. Subsequent developments and contributions do not alter the historical record of this publication.
+
 ## The Proposal in Brief
 
 OIIF starts with a question: can difficulties in linking and reusing innovation results and processes across independent organisations be reduced through **shared conventions confined to interfaces**, without imposing a uniform way of working on universities or companies?

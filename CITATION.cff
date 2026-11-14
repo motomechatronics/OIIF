@@ -5,6 +5,8 @@ authors:
   - family-names: "Volpe"
     given-names: "Salvatore"
 version: "1.0.0"
+doi: "10.5281/zenodo.24218146"
+date-released: "2026-11-14"
 type: generic
 abstract: "A preliminary open methodological proposal for interoperable university–industry innovation, including Industrial Innovation Proposals (IIPs), independent validation, a shared European repository and community governance."
 keywords:
