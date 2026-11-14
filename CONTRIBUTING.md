@@ -28,4 +28,4 @@ Original conception of the project and authorship of later contributions should 
 
 ## Licensing Contributions
 
-The proposed intention is to distribute **documents** under CC BY 4.0, with attribution of authors and changes. Before public activation, consent from the relevant rights holders must be obtained. Contributors must have the legal right to make their contributions available on these terms. Any software and data added in the future will require suitable, separate terms.
+The documents in this repository are distributed under CC BY 4.0. Contributors must have the legal right to submit their contributions under these terms and agree to the publication of accepted contributions with appropriate attribution. Any software or data added in the future will require suitable, separate licensing terms.

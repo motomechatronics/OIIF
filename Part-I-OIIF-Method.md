@@ -3,8 +3,8 @@
 # OIIF — Open Industrial Innovation Framework
 
 **A proposal for a shared approach to innovation between universities and industry**  
-*Foundational discussion document — Revised draft, not yet published*  
-*Original conception and formulation: Salvatore Volpe (attribution to be confirmed before publication)*
+*Founding Proposal — Version 1.0.0*
+*Original conception and formulation: Salvatore Volpe*
 
 > **Document status.** OIIF is a methodological proposal to be discussed, compared with existing approaches, and tested experimentally. The features described here are not established findings. The IIP examples are hypothetical, not validated specifications.
 

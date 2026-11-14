@@ -3,9 +3,9 @@
 **An open proposal for improving interoperability between innovation processes in universities and industry.**
 
 **Original conception and formulation:** Salvatore Volpe.  
-**Status:** publication draft; **not** an approved standard or a validated methodology.  
-**First public publication:** to be recorded only after the repository is actually made public.  
-**Proposed licence for the texts:** Creative Commons Attribution 4.0 International (CC BY 4.0), subject to confirmation by the rights holder.
+**Status:** Founding proposal, version 1.0.0; not an approved standard or a validated methodology.
+**Public repository:** https://github.com/motomechatronics/OIIF
+**Licence for the texts:** Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 ## The Proposal in Brief
 
@@ -40,4 +40,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) to propose critiques, identify precedent
 
 ## References and Licence
 
-Initial comparative references appear in Part I, §6. This comparison does not constitute an exhaustive prior-art review. See [LICENSE.md](LICENSE.md) for the proposed text-licensing statement.
+Initial comparative references appear in Part I, §6. This comparison does not constitute an exhaustive prior-art review. See [LICENSE.md](LICENSE.md) for the text-licensing statement.

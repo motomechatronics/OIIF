@@ -2,9 +2,10 @@
 
 **Title:** OIIF — Open Industrial Innovation Framework  
 **Original conception and formulation:** **Salvatore Volpe**  
-**First public version:** `v1.0.0`, **to be assigned only upon actual publication**  
-**Publication date:** *not yet published — do not enter a backdated date*  
-**Persistent identifier (optional DOI):** *to be added after an actual deposit*
+**First public version:** v1.0.0
+**Public repository:** https://github.com/motomechatronics/OIIF
+**Publication date:** See the public GitHub repository history and the Zenodo record.
+**DOI:** To be added after publication on Zenodo.
 
 OIIF is presented here as a proposal for an open approach to promoting interoperability between innovation processes involving universities, companies, and other organisations. The proposal includes Industrial Innovation Proposals (IIPs), a development and independent-validation process, a vision of a common European repository, and principles for governance and maintenance.
 
